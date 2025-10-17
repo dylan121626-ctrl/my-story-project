@@ -58,9 +58,9 @@ def main():
     else:
             parser.dprint("you stay quiet.txt")
             q1 == input()
-    else:
-        parser.dprint("computer scientist.txt")
-        q1 = input()
+    # else:
+    #     parser.dprint("computer scientist.txt")
+    #     q1 = input()
 
 
 
