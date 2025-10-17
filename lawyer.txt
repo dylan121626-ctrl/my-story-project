@@ -1,0 +1,11 @@
+I see, so you chose to make your mother proud and become a lawyer. Your mother is ecstatic,
+your father wanted you to be a doctor but is also happy. you made your parents proud, but now
+you will never live your dream to be a computer scientist. but on the bright side your parents paid your full tuition for your
+Yale law school.
+
+Your mom was helping you pack for Yale law school. she told that you were going to make here so proud and that the rest of the family
+is going to be so jealous when my son becomes a lawyer. you feel mad and disappointed that she does not care about your feelings.
+do you want to say how you feel?
+
+1: yes
+2: no

@@ -1,0 +1,12 @@
+Congratulations, you have just graduated high school. you and your friends cant wait to go to college,
+but you get bad news that your mom wants you to be a lawyer and your dad wants you to be a doctor. your whole life
+you wanted to be a computer scientist, but when you tell your parents about this profession they tell you not
+play with computers your parents says that if you become the lawyer or a doctor they will pay the full tuition
+but if you become a computer scientist then they will not give you a single penny.
+
+Great, now you have a choice to make. Do you want to be a doctor like you father wanted,
+become a lawyer like your mother wanted or go chase your passion and become a computer scientist.
+
+1: Lawyer
+2: Doctor
+3: Computer Scientist
